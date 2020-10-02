@@ -15,18 +15,22 @@ Check node version and npm command
 
 `$ npm -v`
 
-Under project directory, run
+Change working directory to front_end. Then run below comment in terminal.
 
 `$ npm install`
 
+Note: In case if you get any security alert, run 
+'$npm audit fix'
+
 Then
 
-`$npm run build`
+`$npm run dev`
 
 It should pack up a dist folder in the root directory
 
 
 ## Deploy back end
+Change working directory to back_end. Then run below comments in terminal.
 
 Use python 3 or higher version, install flask
 
@@ -38,7 +42,11 @@ Under back end directory, run
 
 It should start a back end port
 
+
 ## Using database to connect back end
+Open pgAdmin and connect to your database.
+Create a table using query: 
+
 
 The data of project should be store to your own database, different database have their own python connection library. Here we use the example of postgresql. 
 
