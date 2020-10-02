@@ -94,3 +94,6 @@ check sample.csv file in the directory
 
 If you want to deploy it to virtual machine to start a service, you can Nginx to do front, back end redirect. Install Nignx and set up config file, target root to dist folder, note that port 5000 should be targeted to back end.
 
+## Tutorial video <br/>
+[<img src="https://github.com/stccenter/PlanetaryDefense/blob/master/screenshot.PNG" width="60%">](https://www.youtube.com/watch?v=nx856F2zDEU&feature=youtu.be)
+
