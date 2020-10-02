@@ -1,7 +1,7 @@
 # Software requirements
-node.js https://nodejs.org/en/download/
-PostgreSQL https://www.postgresql.org/download/
-Visual Studio Code
+1. node.js https://nodejs.org/en/download/
+2. PostgreSQL https://www.postgresql.org/download/
+3. Visual Studio Code
 
 # Publication Analysis Module
 
