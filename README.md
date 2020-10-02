@@ -47,10 +47,12 @@ It should start a back end port
 Open pgAdmin and connect to your database.
 Create a table using query: 
 
+Import sample.csv file to the database using below configuration
+
 
 The data of project should be store to your own database, different database have their own python connection library. Here we use the example of postgresql. 
 
-Add your database information in the db connection part
+Add your database information in the db connection part in app.py under back_end folder.
 
 `conn = psycopg2.connect(database='', host='', user='', password='', port='')`
 
