@@ -45,7 +45,7 @@ It should start a back end port
 
 ## Using database to connect back end
 Open pgAdmin and connect to your database.<br/>
-Create a table using query: 
+Create a table using query: https://github.com/stccenter/PlanetaryDefense/blob/master/createtable.sql
 
 Import sample.csv file to the database using below configuration<br/>
 [<img src="import.PNG" width="60%">](https://github.com/stccenter/PlanetaryDefense/blob/master/import.PNG)
