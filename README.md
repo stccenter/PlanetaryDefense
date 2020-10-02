@@ -44,7 +44,7 @@ It should start a back end port
 
 
 ## Using database to connect back end
-Open pgAdmin and connect to your database.
+Open pgAdmin and connect to your database.<br/>
 Create a table using query: 
 
 Import sample.csv file to the database using below configuration
