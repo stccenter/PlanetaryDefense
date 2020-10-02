@@ -1,3 +1,8 @@
+# Software requirements
+node.js https://nodejs.org/en/download/
+PostgreSQL https://www.postgresql.org/download/
+Visual Studio Code
+
 # Publication Analysis Module
 
 This repository stores publication analysis module under stccenter knowledge base framework, you can check the example in Planetary Defense Gateway:
@@ -6,8 +11,6 @@ https://pd.stcenter.net/index.php/pdc-datavisualization/
 [<img src="home.png" width="60%">](https://pd.stcenter.net/index.php/pdc-datavisualization/)
 
 ## Deploy front end
-
-Install node.js https://nodejs.org/en/download/
 
 Check node version and npm command
 
